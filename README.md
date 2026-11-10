@@ -29,7 +29,7 @@ For version MARv3.14.0, please see https://zenodo.org/records/13151275.
 
 -------------------------------------------------------------------------------------------
 
-#Specific configurations for running MAR in the Northern Hemisphere over High Mountain Asia 
+# Specific configurations for running MAR in the Northern Hemisphere over High Mountain Asia 
                                      
 -------------------------------------------------------------------------------------------
 
