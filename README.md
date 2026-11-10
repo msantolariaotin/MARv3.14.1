@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------------------
 
-|                                      MAR model                                          |
+#                                    MAR model                                          
 
 -------------------------------------------------------------------------------------------
 
@@ -14,21 +14,22 @@ The MAR source code is available from https://gitlab.uliege.be/especes/mar/stabl
 
 Further documentation on the model and how to run it is available in the https://gitlab.uliege.be/groups/especes/mar/-/wikis/home/.
 
-This README documents the specific modifications and configuration settings implemented in MAR and NESTOR for the simulations over High Mountain Asia (HMA) using MARv3.14.1.
+This README documents the specific modifications and configuration settings implemented in MAR and NESTOR for the simulations over High Mountain Asia (HMA) using MARv3.14.1. These modifications include, in particular, adaptations to the land-cover and ice mask, which are required to properly represent the regional characteristics of HMA. 
+
 Two simuations have been already performed using this configuration at 7km x 7km horizontal resoluation during 1950-2025:
 
 ° The Central Himalaya (82.5°E–89.4°E, 26.6°N–30.5°N), https://zenodo.org/records/24011336
+
 ° The Pamir region (68.4°E–76.3°E, 36.8°N–40.7°N), https://zenodo.org/records/23921900
 
 For version MARv3.14.0, please see https://zenodo.org/records/13151275.
 
-These modifications include, in particular, adaptations to the land-cover and ice mask (available in this repository), which are required to properly represent the regional characteristics of HMA. 
 
 
 
 -------------------------------------------------------------------------------------------
 
-| Specific configurations for running MAR in the Northern Hemisphere over High Mountain Asia |
+#Specific configurations for running MAR in the Northern Hemisphere over High Mountain Asia 
                                      
 -------------------------------------------------------------------------------------------
 
